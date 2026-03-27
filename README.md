@@ -3,7 +3,7 @@ Moebius Stylized Outline & Hatching - Unity URP
 
 Overview
 --------
-This Unity project provides a set of screen-space and object-space stylized rendering effects for the Universal Render Pipeline (URP). It includes a Moebius-style outline pass and a cross-hatch post-processing pass implemented as shaders plus small render feature scripts to integrate them into URP. `*This Projecct is Inspired From Useless Game Dev's Moebius-style 3D Rendering video.*`
+This Unity project provides a set of screen-space and object-space stylized rendering effects for the Universal Render Pipeline (URP). It includes a Moebius-style outline pass and a cross-hatch post-processing pass implemented as shaders plus small render feature scripts to integrate them into URP. `This Projecct is Inspired From Useless Game Dev's Moebius-style 3D Rendering video.`
 
 Key Features
 ------------
